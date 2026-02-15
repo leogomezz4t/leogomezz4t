@@ -1,5 +1,5 @@
 ## Leonardo Wu Gomez
-[![](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/leonardo-wu-gomez-135276399/)
+[![](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/leogomezz/)
 [![](https://img.shields.io/badge/-Email-orange?logo=gmail&logoColor=white)](leojwu18@gmail.com)
 ### Languages
 
